@@ -1,6 +1,6 @@
 # Python Time Series Forecasting Tutorial
 
-Welcome to the Python Time Series Forecasting Tutorial using the neuralforecast library powered by (NIXTLA)[https://nixtlaverse.nixtla.io/]! This project focuses on providing educational examples about using machine learning techniques for time series prediction in Python. We will specifically explore time series forecasting with Long Short-Term Memory Networks (LSTM) and N-HiTS (Neural Hierarchical Interpolation for Time Series forecast) models.
+Welcome to the Python Time Series Forecasting Tutorial using the neuralforecast library powered by [NIXTLA](https://nixtlaverse.nixtla.io/)! This project focuses on providing educational examples about using machine learning techniques for time series prediction in Python. We will specifically explore time series forecasting with Long Short-Term Memory Networks (LSTM) and N-HiTS (Neural Hierarchical Interpolation for Time Series forecast) models.
 
 Our example pulls financial time series data of Tesla and Bitcoin from Yahoo Finance and applies deep learning models to forecast future prices.
 
