@@ -50,7 +50,7 @@ The script includes:
 Feel free to fork this repository and submit pull requests. You can also submit issues if you find bugs or have suggestions.
 
 ## Acknowledgments
-- Special thanks to user [GUSLOVESMATH](https://www.kaggle.com/guslovesmath) at Kaggle for the inspiration for this repo. Check his [Kaggle](https://www.kaggle.com/code/guslovesmath/amazing-neuralforecast-nvda-forecasting). 
+- Special thanks to user [GUSLOVESMATH](https://www.kaggle.com/guslovesmath) at Kaggle for the inspiration for this repo. Check his [Kaggle Notebook](https://www.kaggle.com/code/guslovesmath/amazing-neuralforecast-nvda-forecasting). 
 - Thanks to the creators of the neuralforecast library for providing extensive tools for time series analysis.
 - This tutorial utilizes data provided by Yahoo Finance.
 - Special thanks to contributors and maintainers of the pandas, numpy, plotly, and yfinance libraries.
